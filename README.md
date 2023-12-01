@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! Me chamo Vinicius Henrique e estou fazendo graduação em tecnólogo em análise e desenvolvimento de sistemas e fazendo um curso focado no desenvolvimento web, sempre gostei de tecnologia e quero construir carreira voltado para tecnologia. 
 
-<!--
-**vini13henrique/vini13henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-b15b6723b/)
 
-Here are some ideas to get you started:
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vini13henrique&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini13henrique&size_weight=0.5&count_weight=0.5)
+
+### Tecnologias que eu utilizo no dia 
+
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+</div>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</div>
