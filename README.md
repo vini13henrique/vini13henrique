@@ -1,4 +1,4 @@
-### Olá! Me chamo Vinicius Henrique e estou fazendo graduação em tecnólogo em análise e desenvolvimento de sistemas e fazendo um curso focado no desenvolvimento web, sempre gostei de tecnologia e quero construir carreira voltado para tecnologia. 
+### **Olá! Me chamo Vinicius Henrique atualmente estou cursando ads e atualemnte estou estudando java e pretendo de seguir para o desenvolvimento backend**
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-b15b6723b/)
 
