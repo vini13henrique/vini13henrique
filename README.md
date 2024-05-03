@@ -4,13 +4,16 @@
 
 
 
-### Tecnologias que eu utilizo no dia 
+### Tecnologias que eu utilizo no dia.
 
 
 <div style="display: inline_brock"><br/>
 
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
+
+### Sistema operacional que eu utilizo.
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 
 
