@@ -1,4 +1,4 @@
-### **Olá! Me chamo Vinicius Henrique, atualmente estou estudando java para o desenvolvimento FullStack com JavaScript, TypeScript. 
+### **Olá! Me chamo Vinicius Henrique, atualmente estou estudando Sobre o desenvolvimento FullStack com JavaScript, TypeScript e Possuo um Básico conhecimento da sintaxe do java. 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-b15b6723b/)
 
