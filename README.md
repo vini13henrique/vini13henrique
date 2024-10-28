@@ -1,4 +1,4 @@
-### **Olá! Me chamo Vinicius Henrique, atualmente estou estudando Sobre o desenvolvimento Mobile e Pretendo me especializar com foco em android com Kotlin
+### **Olá! Me chamo Vinicius Henrique, atualmente estou estudando Sobre o desenvolvimento Mobile e Pretendo me especializar com foco em Android com Kotlin e tenho um Conhecimento Básico com java para o Desenvolvimento Android, mas Não muito aprofundando.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-b15b6723b/)
 
