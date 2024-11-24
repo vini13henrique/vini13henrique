@@ -1,4 +1,5 @@
-Olá! Me chamo Vinicius Henrique, atualmente estou estudando sobre o desenvolvimento FullStack, com foco em JavaScript, TypeScript, React, Node, Express
+Olá! Me chamo Vinicius Henrique, atualmente estou estudando sobre o desenvolvimento FullStack
+
 
 
 Tecnologias que eu utilizo no dia a dia.
