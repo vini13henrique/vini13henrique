@@ -1,10 +1,5 @@
 Olá! Me chamo Vinicius Henrique, atualmente estou focando meus estudos no desenvolvimento Front-End.
 
-Estou aprendendo a trabalhar com as tecnologias mais utilizadas para criar interfaces interativas e dinâmicas.
-
-também já tive um breve conhecimento e uns projetos para Android com Kotlin e Java para praticar
-
-
 Tecnologias Front-End que eu utilizo no dia a dia:
 
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
